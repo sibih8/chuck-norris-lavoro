@@ -1,0 +1,13 @@
+
+.text {
+    min-height: 60px;
+    margin-top: 1.2rem;
+    padding: 1rem;
+    background: #292929;
+    border-radius: 8px;
+    color: #fff;
+    font-size: 1.1rem;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.10);
+    word-break: break-word;
+    font-style: italic;
+}
